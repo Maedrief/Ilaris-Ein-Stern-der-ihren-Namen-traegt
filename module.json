@@ -1,0 +1,46 @@
+{
+  "id": "ein-stern-der-ihren-namen-tragt",
+  "title": "Ein Stern der ihren Namen trägt",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "Ilaris",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "ivan-duch-music-packs",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Dieses Anfängerabenteuer für Ilaris bringt die Helden zum Bognerfest ins beschauliche Olat. Doch sie haben nicht viel Zeit das Fest zu genießen, denn ein Vermisstenfall führt sie geradewegs ins angrenzende düstere Nebelmoor. Werden\nsie es schaffen den Vermissten zu retten? Und was hat das Ganze mit dem Stern zu tun, der wenige Tage zuvor vom Himmel ins Moor gestürzt ist?",
+  "authors": [
+    {
+      "name": "Marcel Friedrich",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "ein-stern-der-ihren-namen-tragt",
+      "label": "Ein Stern der ihren Namen trägt",
+      "path": "packs/ein-stern-der-ihren-namen-tragt",
+      "type": "Adventure",
+      "system": "Ilaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "url": "https://github.com/Maedrief/Ein-Stern-der-ihren-Namen-traegt/"
+}
